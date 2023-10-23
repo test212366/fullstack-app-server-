@@ -1,0 +1,5 @@
+{
+  "PORT": 5000,
+  "SECRET_KEY": "i love lera :)",
+  "mongoUri": "mongodb+srv://qwerty:qwerty123@cluster0.57rrt.mongodb.net/db?retryWrites=true&w=majority"
+}
